@@ -73,23 +73,6 @@ Zustand, PostCSS, Framer Motion and CI/CD fundamentals.
 
 ---
 
-## 🧠 Competitive Programming
-
-<p align="center">
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://leetcard.jacoblin.cool/Swarnabha__999?theme=dark&font=baloo&ext=contest" />
-  </a>
-</p>
-
-### Achievements
-
-- 🟡 **800+ LeetCode problems solved**
-- 🔵 **Codeforces Specialist**
-- 🏅 **Codeforces Max Rating: 1580**
-- 💡 Regularly practice algorithms, data structures and competitive programming
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎥 XMeet — Video Conferencing Platform
@@ -171,22 +154,7 @@ Bachelor of Technology — Computer Science & Engineering
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarnabha753&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnabha753&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swarnabha753&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
@@ -195,10 +163,6 @@ Bachelor of Technology — Computer Science & Engineering
 📧 **Email:** nandiswarnabha@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/swarnabha-nandi/
-
-🧑‍💻 **LeetCode:** YOUR_LEETCODE_URL
-
-🏆 **Codeforces:** YOUR_CODEFORCES_URL
 
 </p>
 

@@ -108,23 +108,16 @@ delivery and backend event handling.
 
 ## 🌐 Open Source
 
-Currently contributing to open-source projects and learning professional
-development workflows including:
-
-- Git & GitHub collaboration
-- Issue-based development
-- Forks and branches
-- Pull Requests
-- Code review
-- CI/CD workflows
-- Conventional Commits
+Actively contributing to open-source projects through independent implementations, bug fixes, and community contributions.
 
 ### Recent Contributions
 
-- 🟢 **KanaDojo** — Grammar/content contribution
-- 🟢 **KanaDojo** — Community theme contribution
+* 🟢 **Vacation Rental Protocol (VRP)** — Independent verifier implementation, validated against 11 conformance vectors.
+* 🟢 **free-llm-api-hub** — Explorer UI sorting-state fix, reviewed and merged.
+* 🟢 **KanaDojo** — Grammar/content and community theme contributions.
 
-More contributions coming soon 🚀
+**Skills:** Git & GitHub · Pull Requests · Code Review · Testing · CI/CD
+
 
 ---
 

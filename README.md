@@ -29,8 +29,8 @@ problems.
 - 💻 Interested in **Software Engineering, Full-Stack Development & Distributed Systems**
 - 🚀 Building applications with the **MERN stack**
 - 🧠 Strong focus on **Data Structures & Algorithms**
-- 🏆 **800+ problems solved on LeetCode**
-- ⚡ **Codeforces Specialist** — Max Rating: 1580
+- 🏆 **900+ problems solved on LeetCode**
+- ⚡ **Codeforces Expert** — Max Rating: 1691
 - 🌱 Currently improving my knowledge of **System Design, LLD, HLD and scalable backend systems**
 - 🤝 Actively contributing to **open-source projects**
 
